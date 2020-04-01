@@ -7,6 +7,7 @@ def my_find(collection)
   if  yield(collection[i])
     i = i + 1
   else
+    
 end
   end
 end
